@@ -1,4 +1,4 @@
- 💸 Expense Tracker (Python)
+## 💸 Expense Tracker (Python)
 
 A simple and user-friendly console-based Expense Tracker built using Python.  
 This project helps users record daily expenses, view all spending, and calculate total costs easily.
@@ -80,7 +80,7 @@ date, category, description, amount
 
 ## 👩‍💻 Author
 
-Sneha Gade  
+Diksha Gade  
 BCA Student | Python Learner  
 
 ---
