@@ -26,8 +26,10 @@ This project helps users record daily expenses, view all spending, and calculate
 ## 📂 Project Structure
 
 expense-tracker-python/
-│
+
+
 ├── expense_tracker.py  
+
 ├── README.md  
 
 ---
